@@ -1,0 +1,13 @@
+{
+  "name": "start-webpack-dev-server-hot-test",
+  "scripts": {
+    "start": "start-runner webpack"
+  },
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1",
+    "start-babel-cli": "^4.0.1",
+    "start-webpack-dev-server-hot": "^0.1.0",
+    "start": "^5.1.0"
+  }
+}
